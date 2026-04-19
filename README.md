@@ -17,7 +17,7 @@ Alguns projetos desenvolvidos no IFRN, como o Chronos, não podem ter parte de s
 **Sistema de monitoramento e automação para data center**  
 Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para monitoramento de temperatura, umidade e automação de refrigeração.
 
-![Cartaz Projeto Chronos](Chronos.png)
+![Cartaz Projeto Chronos](assets/Chronos.png)
 
 **Principais tecnologias:** ESP32, sensores ambientais e automação IoT.
 
@@ -28,7 +28,7 @@ Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para mo
 Desenvolvimento de materiais didáticos e projetos voltados ao ensino de robótica com Arduino (robôs seguidor de linha, semáforos automatizados e sistemas com sensores de luz) para alunos do 9º ano de escolas do município de São Gonçalo do Amarante.
 
 Exemplo de material:
-[Slide da primeira aula](https://github.com/Heitor-Lisboa/meus-projetos/blob/main/SLIDES_%20AULA_01.pdf)
+[Slide da primeira aula](assets/SLIDES_AULA_01.pdf)
 
 ---
 
