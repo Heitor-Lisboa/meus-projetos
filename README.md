@@ -1,39 +1,44 @@
 # meus-projetos
 
-Opa, meu nome é Heitor, sou estudante de Técnico em Informática no IFRN.
-Desenvolvedor em formação
-Buscando estágio ou jovem aprendiz em TI.
+Olá, meu nome é Heitor. Sou estudante de Técnico em Informática pelo IFRN, desenvolvedor em formação e busco uma oportunidade como estagiário ou jovem aprendiz na área de TI.
 
 Alguns projetos desenvolvidos no IFRN, como o Chronos, não podem ter seu código disponibilizado publicamente por envolverem uso institucional. Ainda assim, estou disponível para apresentar detalhes técnicos, arquitetura e decisões de desenvolvimento.
 
-## trabalhando atualmente com as tecnologias
+## Tecnologias
 - Java, C++, JavaScript
 - HTML, CSS
 - MySQL
 - Arduino / ESP32 / ESP8266
 
-Alguns dos meus projetos:
+## Projetos
 
-## Projeto Chronos (Apresentação)
+### Projeto Chronos (Apresentação)
 
 **Sistema de monitoramento e automação para data center**  
 Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para monitoramento de temperatura, umidade e automação de refrigeração.
 
 ![Cartaz Projeto Chronos](Chronos.png)
 
-**Principais tecnologias:** ESP32, sensores ambientais, automação IoT.
+**Principais tecnologias:** ESP32, sensores ambientais e automação IoT.
 
-## Projeto Robotizando no IF
-Desenvolvimento de materiais didáticos para aulas focadas no ensino de robótica com Arduino (robôs seguidor de linha, semáforos, sensores de luz) para alunos do nono ano de escolas do municipio de São gonçalo do Amarante.
+---
 
-Ex: 
+### Projeto Robotizando no IF
 
-[Slide da primeira aula do Robotizando no IF](https://github.com/Heitor-Lisboa/meus-projetos/blob/main/SLIDES_%20AULA_01.pdf)
+Desenvolvimento de materiais didáticos e projetos voltados ao ensino de robótica com Arduino (robôs seguidor de linha, semáforos automatizados e sistemas com sensores de luz) para alunos do 9º ano de escolas do município de São Gonçalo do Amarante.
 
-## Outros projetos
-- [Biblioteca Digital](https://github.com/Heitor-Lisboa/Biblioteca-digital) – Sistema em Java (POO)
-- [HEXTEK](https://github.com/Heitor-Lisboa/HEXTEK) – Player de música web (HTML, CSS, JS)
+Exemplo de material:
+[Slide da primeira aula](https://github.com/Heitor-Lisboa/meus-projetos/blob/main/SLIDES_%20AULA_01.pdf)
 
-## Contatos
-- E-mail: hlisboa89@gmail.com
-- Telefone: (84) 99474-3179
+---
+
+### Outros projetos
+
+- [Biblioteca Digital](https://github.com/Heitor-Lisboa/Biblioteca-digital) – Sistema em Java com POO  
+- [HEXTEK](https://github.com/Heitor-Lisboa/HEXTEK) – Player de música web  
+
+---
+
+## Contato
+- E-mail: hlisboa89@gmail.com  
+- Telefone: (84) 99474-3179  
