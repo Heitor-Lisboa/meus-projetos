@@ -4,6 +4,8 @@ Opa, meu nome é Heitor, sou estudante de Técnico em Informática no IFRN.
 Desenvolvedor em formação
 Buscando estágio ou jovem aprendiz em TI.
 
+Alguns projetos desenvolvidos no IFRN, como o Chronos, não podem ter seu código disponibilizado publicamente por envolverem uso institucional. Ainda assim, estou disponível para apresentar detalhes técnicos, arquitetura e decisões de desenvolvimento.
+
 ## trabalhando atualmente com as tecnologias
 - Java, C++, JavaScript
 - HTML, CSS
