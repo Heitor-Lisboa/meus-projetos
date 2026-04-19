@@ -1,6 +1,6 @@
 # meus-projetos
 
-Opa, meu nome é Heitor, estudante de Técnico em Informática no IFRN.
+Opa, meu nome é Heitor, sou estudante de Técnico em Informática no IFRN.
 Desenvolvedor em formação
 Buscando estágio ou jovem aprendiz em TI.
 
