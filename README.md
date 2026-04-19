@@ -9,7 +9,7 @@ Aqui mostro meus principais projetos:
 **Sistema de monitoramento e automação para data center**  
 Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para monitoramento de temperatura, umidade e automação de refrigeração.
 
-![Cartaz Projeto Chronos](chronos-poster.png)
+![Cartaz Projeto Chronos](chronos.png)
 
 **Principais tecnologias:** ESP32, sensores ambientais, automação IoT.
 
