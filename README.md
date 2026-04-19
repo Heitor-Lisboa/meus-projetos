@@ -18,7 +18,7 @@ Desenvolvimento de materiais didáticos para aulas focadas no ensino de robótic
 
 Ex: 
 
-![Slide aula 1 - robotizando](SLIDES_AULA_01.pdf)
+![Slide aula 1 - robotizando](https://github.com/Heitor-Lisboa/meus-projetos/edit/main/SLIDES_AULA_01.pdf)
 
 ## Outros projetos
 - [Biblioteca Digital](https://github.com/Heitor-Lisboa/Biblioteca-digital) – Sistema em Java (POO)
