@@ -17,5 +17,5 @@ Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para mo
 Desenvolvimento de materiais didáticos para ensino de robótica com Arduino (robôs seguidor de linha, semáforos, sensores de luz).
 
 ## Outros projetos
-- [Biblioteca Digital](link-do-repo) – Sistema em Java (POO)
+- [Biblioteca Digital]([https://github.com/Heitor-Lisboa/Biblioteca-digital]) – Sistema em Java (POO)
 - [HEXTEK](link-do-repo) – Player de música web (HTML, CSS, JS)
