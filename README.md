@@ -28,7 +28,7 @@ Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para mo
 Desenvolvimento de materiais didáticos e projetos voltados ao ensino de robótica com Arduino (robôs seguidor de linha, semáforos automatizados e sistemas com sensores de luz) para alunos do 9º ano de escolas do município de São Gonçalo do Amarante.
 
 Exemplo de material:
-[foto do slide](assets/aula.pgn) [Slide da primeira aula](assets/SLIDES_AULA_01.pdf)
+[foto do slide](assets/aula.png) [Slide da primeira aula](assets/SLIDES_AULA_01.pdf)
 
 ---
 
