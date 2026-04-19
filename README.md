@@ -12,7 +12,6 @@ Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para mo
 ![Cartaz Projeto Chronos](Chronos.png)
 
 **Principais tecnologias:** ESP32, sensores ambientais, automação IoT.
-<image-card alt="Projeto Chronos" src="Chronos.png" ></image-card>
 
 ## Projeto Robotizando no IF
 Desenvolvimento de materiais didáticos para ensino de robótica com Arduino (robôs seguidor de linha, semáforos, sensores de luz).
