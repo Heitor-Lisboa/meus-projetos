@@ -1,8 +1,16 @@
 # meus-projetos
 
 Opa, meu nome é Heitor, estudante de Técnico em Informática no IFRN.
+Desenvolvedor em formação
+Buscando estágio ou jovem aprendiz em TI
 
-Aqui mostro meus principais projetos:
+## trabalhando atualmente com as tecnologias
+- Java, C++, JavaScript
+- HTML, CSS
+- MySQL
+- Arduino / ESP32 / ESP8266
+
+Alguns dos meus projetos:
 
 ## Projeto Chronos (Apresentação)
 
@@ -23,3 +31,7 @@ Ex:
 ## Outros projetos
 - [Biblioteca Digital](https://github.com/Heitor-Lisboa/Biblioteca-digital) – Sistema em Java (POO)
 - [HEXTEK](https://github.com/Heitor-Lisboa/HEXTEK) – Player de música web (HTML, CSS, JS)
+
+## Contatos
+- E-mail: hlisboa89@gmail.com
+- Telefone: (84) 99474-3179
