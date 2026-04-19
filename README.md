@@ -18,4 +18,4 @@ Desenvolvimento de materiais didáticos para ensino de robótica com Arduino (ro
 
 ## Outros projetos
 - [Biblioteca Digital](https://github.com/Heitor-Lisboa/Biblioteca-digital) – Sistema em Java (POO)
-- [HEXTEK](link-do-repo) – Player de música web (HTML, CSS, JS)
+- [HEXTEK](https://github.com/Heitor-Lisboa/HEXTEK) – Player de música web (HTML, CSS, JS)
