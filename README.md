@@ -1,4 +1,4 @@
-# meus-projetos
+# Meus-projetos
 
 Olá, meu nome é Heitor. Sou estudante de Técnico em Informática pelo IFRN, desenvolvedor em formação e busco uma oportunidade como estagiário ou jovem aprendiz na área de TI.
 
