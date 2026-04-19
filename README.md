@@ -14,7 +14,10 @@ Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para mo
 **Principais tecnologias:** ESP32, sensores ambientais, automação IoT.
 
 ## Projeto Robotizando no IF
-Desenvolvimento de materiais didáticos para ensino de robótica com Arduino (robôs seguidor de linha, semáforos, sensores de luz).
+Desenvolvimento de materiais didáticos para aulas focadas no ensino de robótica com Arduino (robôs seguidor de linha, semáforos, sensores de luz) para alunos do nono ano de escolas do municipio de São gonçalo do Amarante.
+Ex: 
+
+![Slide aula 1 - robotizando](SLIDES_AULA_01.pdf)
 
 ## Outros projetos
 - [Biblioteca Digital](https://github.com/Heitor-Lisboa/Biblioteca-digital) – Sistema em Java (POO)
