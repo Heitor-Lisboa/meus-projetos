@@ -2,7 +2,7 @@
 
 Opa, meu nome é Heitor, estudante de Técnico em Informática no IFRN.
 Desenvolvedor em formação
-Buscando estágio ou jovem aprendiz em TI
+Buscando estágio ou jovem aprendiz em TI.
 
 ## trabalhando atualmente com as tecnologias
 - Java, C++, JavaScript
