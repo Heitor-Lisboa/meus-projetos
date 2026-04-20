@@ -21,6 +21,8 @@ Desenvolvi, junto com a equipe, um protótipo com ESP32 e Home Assistant para mo
 
 **Principais tecnologias:** ESP32, sensores ambientais e automação IoT.
 
+Se quiser sabe mais clique aqui: [Repositório Chronos](https://github.com/Heitor-Lisboa/Chronos) 
+
 ---
 
 ### Projeto Robotizando no IF
